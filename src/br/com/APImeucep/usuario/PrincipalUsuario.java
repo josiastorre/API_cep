@@ -1,4 +1,4 @@
-package br.com.APImeucep.usario;
+package br.com.APImeucep.usuario;
 
 import br.com.APImeucep.dominio.Endereco;
 import br.com.APImeucep.cep.ViaCep;
